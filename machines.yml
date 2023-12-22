@@ -141,7 +141,7 @@ CHAOJINGGZT:
       output:
         '1':
           type: SLIMEFUN
-          id: JIYANKEJI_JIDEQIYUAN
+          id: JIYANKEJI_YIGEXUDETOU
           amount: 1
         '2':
           type: NONE
