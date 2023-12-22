@@ -469,7 +469,7 @@ SHENGWUKEJI_CAOGOD:
       type: SLIMEFUN
       id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
       amount: 1
-JIYANKEJI_JIDEQIYUAN:
+JIYANKEJI_YIGEXUDETOU:
   category: shengwukeji_zuozhe
   item-type: CUSTOM
   item-name: "&eyigexu的头"
