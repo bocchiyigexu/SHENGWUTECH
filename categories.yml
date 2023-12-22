@@ -1,0 +1,44 @@
+shengwukeji:
+  type: nested
+  category-name: "&2&l生物科技"
+  category-item: CHORUS_FLOWER
+shengwukeji_xx:
+  type: sub
+  category-name: "&6&l生物科技 &7- &4&l信息"
+  category-item: SKULL89f7a04ac334fcaf618da9e841f03c00d749002dc592f8540ef9534442cecf42
+  parent: shengwukeji
+shengwukeji_pf:
+  type: sub
+  category-name: "&6&l生物科技 &7- &5&l配方"
+  category-item: SKULL94f90c7bd60bfd0dfc31808d0484d8c2db9959f68df91fbf29423a3da62429a6
+  parent: shengwukeji
+shengwukeji_zuozhe:
+  type: sub
+  category-name: "&6&l生物科技 &7- &e作者"
+  category-item: SKULL6ded84393bec253cca66c04316726a858e574712b6ff9f273668da98efcc28f
+  parent: shengwukeji
+shengwukeji_cl:
+  type: sub
+  category-name: "&6&l生物科技 &7- &9&l生物裂变材料"
+  category-item: SKULLd27fd100da371df217f4e793268efed3be4e6b774c9afd2a2b571da41ea05df8
+  parent: shengwukeji
+shengwukeji_gaojicl:
+  type: sub
+  category-name: "&6&l生物科技 &7- &8&l高级材料"
+  category-item: SKULL7fa28cdf8c1d571751b3aaecd3b0be60c31926d5af865f279c3efe51b97767a1
+  parent: shengwukeji
+shengwukeji_jiqi:
+  type: sub
+  category-name: "&6&l生物科技 &7- &f&l能源与电力"
+  category-item: SKULL3ebac88c90a971248f2c9c1b4c6c6a3f8c834841465f821ce7e6b75dbf3897e4
+  parent: shengwukeji
+shengwukeji_yitiji:
+  type: sub
+  category-name: "&6&l生物科技 &7- &e&l科技自动化一体机"
+  category-item: SKULL97fb27a1a11ba456c0a13f90901364ced9ecad8fe9c99b6838ff5f4dab1f6191
+  parent: shengwukeji
+shengwukeji_jindingyiti:
+  type: sub
+  category-name: "&6&l生物科技 &7- &e&l金元素的高效利用"
+  category-item: SKULLbe43d0fabbd913c001d4dcec8b3294832b1f4ff79d8f3d5683a5070d371f8cf4
+  parent: shengwukeji
