@@ -1,0 +1,212 @@
+SHENGWUKEJI_GUITIEYTJ:
+  category: shengwukeji_yitiji
+  item-name: "&l&e光伏电池一体机 &7- &cI"
+  item-lore:
+  - "&7合成虚空发电机硅铁不够用吗?让它来帮你"
+  block-type: SKULLdcd7a00de13ec9f3c59d7cf902d980f5d29002c0dad754acbda0f6c2b698fd05
+  item-amount: 1
+  stats:
+    energy-consumption: 100
+    energy-buffer: 1000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SOLAR_PANEL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+  output:
+    tick-rate: 20
+    type: SLIMEFUN
+    id: SOLAR_PANEL
+    amount: 2
+SHENGWUKEJI_GUITIEYTJII:
+  category: shengwukeji_yitiji
+  item-name: "&l&e光伏电池一体机 &7- &cII"
+  item-lore:
+  - "&7合成虚空发电机硅铁不够用吗?让它来帮你"
+  block-type: SKULLdcd7a00de13ec9f3c59d7cf902d980f5d29002c0dad754acbda0f6c2b698fd05
+  item-amount: 1
+  stats:
+    energy-consumption: 1000
+    energy-buffer: 10000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_HEFEISHUI
+      amount: 1
+  output:
+    tick-rate: 10
+    type: SLIMEFUN
+    id: SOLAR_PANEL
+    amount: 10
+SHENGWUKEJI_GUITIEYTJIII:
+  category: shengwukeji_yitiji
+  item-name: "&l&e光伏电池一体机 &7- &cIII"
+  item-lore:
+  - "&7合成虚空发电机硅铁不够用吗?让它来帮你"
+  block-type: SKULLdcd7a00de13ec9f3c59d7cf902d980f5d29002c0dad754acbda0f6c2b698fd05
+  item-amount: 1
+  stats:
+    energy-consumption: 10000
+    energy-buffer: 100000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJII
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJII
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJII
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJII
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJII
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+  output:
+    tick-rate: 5
+    type: SLIMEFUN
+    id: SOLAR_PANEL
+    amount: 40
+SHENGWUKEJI_GUITIEYTJIIIMAX:
+  category: shengwukeji_yitiji
+  item-name: "&l&e光伏电池一体机 &7- &cMAX"
+  item-lore:
+  - "&7合成虚空发电机硅铁不够用吗?让它来帮你"
+  block-type: SKULLdcd7a00de13ec9f3c59d7cf902d980f5d29002c0dad754acbda0f6c2b698fd05
+  item-amount: 1
+  stats:
+    energy-consumption: 20320
+    energy-buffer: 100000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_YIXIGUAN
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_YASUOZHIMIYUANLIAO
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_YIXIGUAN
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_GUITIEYTJIII
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_SHENGMINGZHIQIYUAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_CAOGOD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: JIYANKEJI_JIDEQIYUAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SHENGWUKEJI_CAOGOD
+      amount: 1
+  output:
+    tick-rate: 1
+    type: SLIMEFUN
+    id: SOLAR_PANEL
+    amount: 64
