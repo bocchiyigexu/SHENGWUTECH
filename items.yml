@@ -5,7 +5,7 @@ JIYANKEJI_INFORMATION:
   item-lore:
     - "&f当前版本："
     - "&e作者:yigexu,HgTIPbBi"
-    - "&bBETA-1.1"
+    - "&bBETA-1.2"
   item-id: PAPER
   item-amount: 1
   placeable: false
