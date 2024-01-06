@@ -1181,7 +1181,7 @@ SHENGWUKEJI_PEIZUXIANGV:
       amount: 1
     '7':
       type: SLIMEFUN
-      id: BORIUM_ROD_BNG
+      id: TESSERACTING_OBJ
       amount: 1
     '8':
       type: SLIMEFUN
@@ -1189,7 +1189,7 @@ SHENGWUKEJI_PEIZUXIANGV:
       amount: 1
     '9':
       type: SLIMEFUN
-      id: BORIUM_ROD_BNG
+      id: TESSERACTING_OBJ
       amount: 1
   recipes:
     '1':
